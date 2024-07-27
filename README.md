@@ -30,6 +30,42 @@ And here we are eliminating these outliers.
 ![image](https://github.com/user-attachments/assets/5caf974f-b50b-4aec-b4f4-63e454e2c5c0)
 ![image](https://github.com/user-attachments/assets/0f9b9760-c2b3-43ef-b9da-17afab038039)
 
+## Fourth, we will create a new age range feature
+
+![image](https://github.com/user-attachments/assets/e4f158e5-a798-4484-8051-cf8445e958fc)
+
+Here we are creating the feature.
+
+## Fifth, we need to do data preprocessing
+
+![image](https://github.com/user-attachments/assets/ca49772f-307b-427c-b19c-877fb8771a0a)
+![image](https://github.com/user-attachments/assets/e97361f4-a78e-47db-a093-c01e3d922e90)
+
+Here we are taking our features and transforming them into integer and float values.
+
+## Sixth, let's train our model and test
+
+![image](https://github.com/user-attachments/assets/5e200460-65d2-427f-9945-f1abfc1f556d)
+
+Removing SCORE feature.
+
+![image](https://github.com/user-attachments/assets/4f229b98-5ced-4727-b5a8-aca4a85dbf1f)
+
+Training the model.
+
+![image](https://github.com/user-attachments/assets/e49463af-ba54-406f-bda8-0347de727eef)
+![image](https://github.com/user-attachments/assets/adedba9e-543f-41e1-ba7f-c6516da69527)
+
+And now testing the model and getting the results.
+
+
+
+
+
+
+
+
+
 
 
 
