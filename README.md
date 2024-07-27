@@ -58,6 +58,12 @@ Training the model.
 
 And now testing the model and getting the results.
 
+## Youtube Link Video
+
+I recorded a video about this project, if you want to see it, take a look at the next link and be happy!
+
+Youtube link: https://www.youtube.com/watch?v=mqXF4n7fY1I&t=1329s
+
 
 
 
